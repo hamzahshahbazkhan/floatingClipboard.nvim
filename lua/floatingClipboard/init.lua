@@ -16,8 +16,8 @@ local function windows_config()
 		relative = "editor",
 		col = 64,
 		row = (vim.o.lines - height) / 2,
-		border = "single",
-		title = "clipboard",
+		border = "rounded",
+		title = " Clipboard ",
 		title_pos = "center",
 	}
 end
