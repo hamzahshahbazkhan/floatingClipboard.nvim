@@ -29,6 +29,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 ## Usage
 
 - `:Cl` - opens the floatingClipboard
+- `q` - quits the floatingClipboard
 - vim keybindings to navigate
 - `p` or `<CR>` to paste the block
 - not editable in normal mode
